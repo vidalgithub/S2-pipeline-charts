@@ -1,5 +1,5 @@
 image:
   repository: devopseasylearning2021/canary-dev
-  tag: "236c2"
+  tag: "v1.0.0"
 service:
   type: LoadBalancer
